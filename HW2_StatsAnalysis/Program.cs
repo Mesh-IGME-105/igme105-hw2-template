@@ -4,7 +4,7 @@
  * YOUR NAME
  * 
  * HW 2 - Stats Analysis
- * Assignment Write-Up: https://docs.google.com/document/d/1K9DEWKk222lfWZ7Bv3M2z-eRTnJPNljCHDGdNrrvock/edit?usp=sharing
+ * Assignment Write-Up: https://docs.google.com/document/d/1TYk0ZTNPPgKgQY3JJx_HpflbFwyaKYelKQe7eAq1xXg/edit?usp=sharing
  * GitHub repo URL:
  * 
  */
