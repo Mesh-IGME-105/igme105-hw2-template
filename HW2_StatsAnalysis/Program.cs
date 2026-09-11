@@ -5,7 +5,6 @@
  * 
  * HW 2 - Stats Analysis
  * Assignment Write-Up: https://docs.google.com/document/d/1TYk0ZTNPPgKgQY3JJx_HpflbFwyaKYelKQe7eAq1xXg/edit?usp=sharing
- * GitHub repo URL:
  * 
  */
 namespace HW2_StatsAnalysis
